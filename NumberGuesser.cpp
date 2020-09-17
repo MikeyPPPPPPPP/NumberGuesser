@@ -1,8 +1,3 @@
-// Name: Michael Provenzano
-// Course: CIS 006 Intro to programming 
-// CRN: 44574 
-// Date: 9/17/2020
-// Assignment: NumberGuesser
 #include <iostream>
 using namespace std;
 
